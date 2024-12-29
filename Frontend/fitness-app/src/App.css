@@ -1,0 +1,8 @@
+/* Add this to App.css or index.css */
+.placeholder-black::placeholder {
+  color: rgb(0, 0, 0);
+}
+
+.placeholder-white::placeholder {
+  color: #ffffff;
+}
